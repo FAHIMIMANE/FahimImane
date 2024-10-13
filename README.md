@@ -15,12 +15,11 @@ Here are a few technologies I enjoy working with:
 
 ⚡️ Feel free to explore my repositories and leave a star if you find something interesting! ⭐️
 
-I'm always excited about new projects and collaborations! If you have a cool idea or just want to chat, don’t hesitate to reach out. Let’s bring something amazing to life together! 🚀🤝
+ I'm always excited about new projects and collaborations! If you have a cool idea or just want to chat, don’t hesitate to reach out. Let’s bring something amazing to life together! 🚀🤝
 
-                                                                                                🌟 Fun Fact
+🌟 Fun Fact
 
-                                    I'm convinced that a good playlist 🎧 and some quality code 💻 can spark innovation! What's your go-to soundtrack for deep focus?
-
+ I'm convinced that a good playlist 🎧 and some quality code 💻 can spark innovation! What's your go-to soundtrack for deep focus?
 
 Skills: 
 - 🅰️Angular
