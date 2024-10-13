@@ -23,7 +23,8 @@ I'm convinced that a good playlist 🎧 and some quality code 💻 can spark inn
 
 
 Skills:
-🅰️Angular 
+
+- 🅰️Angular 
 - 🌱 Spring Boot 
 - 🚀CI/CD 
 - 🐳Docker  
