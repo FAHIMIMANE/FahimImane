@@ -6,9 +6,13 @@
 Here are a few technologies I enjoy working with:
 
 💻 Frontend: Angular.
+
 🖥️ Backend: JAVA.
+
 🛢️ Databases: MYSQL.
+
 🚀 Frameworks: Spring Boot.
+
 ⚡️ Feel free to explore my repositories and leave a star if you find something interesting! ⭐️
 
 I'm always excited about new projects and collaborations! If you have a cool idea or just want to chat, don’t hesitate to reach out. Let’s bring something amazing to life together! 🚀🤝
