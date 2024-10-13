@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is IMANE FAHIM
+
 #### 👩‍💻I am a Software Engineering Student . And a problem solver ! ⚙️
+
 💻 I'm a full-stack developer and DevOps enthusiast .
+
 📚 🔍 Currently i'm learning about QC & QA .
 
 Here are a few technologies I enjoy working with:
